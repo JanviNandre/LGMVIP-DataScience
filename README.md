@@ -12,7 +12,7 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners. Dataset can be seen on MNIST
 
-##Task 4 : Prediction using Decision Tree  Algorithm
+## Task 4 : Prediction using Decision Tree  Algorithm
 
 Create the Decision Tree classifier and visualize it graphically. 
 
